@@ -10,7 +10,7 @@ Tools:
 Screenshots
 -------------
 
-<img src="screenshots/login.jpeg" height="400" alt="Screenshot"/>  <img src="screenshots/lastmessages.jpeg" height="400" alt="Screenshot"/> <img src="screenshots/chat.jpeg" height="400" alt="Screenshot"/>
+<img src="Screenshots/20839251_10203714137011720_621723790_n_framed.png" height="400" alt="Screenshot"/>  <img src="Screenshots/Screenshot_2017-11-19-10-05-36_framed.png.jpeg" height="400" alt="Screenshot"/> <img src="Screenshots/21442809_10203800817898688_2129923609_n_framed.png" height="400" alt="Screenshot"/>
 
 ## Libraries and Tools
 - Firebase
