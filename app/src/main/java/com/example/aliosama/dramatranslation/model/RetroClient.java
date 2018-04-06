@@ -19,7 +19,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class RetroClient {
 
 
-    private static final String ROOT_URL = "http://ottakae.com/wp-json/wp/v2/";
+    private static final String ROOT_URL = "Ottakea_JSON_URL_Root";
 
 
     private static Retrofit getRetrofitInstance() {
