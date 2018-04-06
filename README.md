@@ -18,3 +18,5 @@ Tools:
 7- JSON Connection via Retrofit.
 
 8- Youtube Fragment.
+
+[alt text](https://github.com/Ali-Ussama/Drama-Translation/Screenshot_2017-11-19-10-05-49_framed.png)
