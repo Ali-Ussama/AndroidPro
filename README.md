@@ -13,14 +13,14 @@ This app about displaying Korean Movies and Series Episodes.
 ## Libraries and Tools
 - Firebase
 - Picasso
--MVC Pattern.
--Navigation Drawer.
--Fragments and Activities.
--Recycler View.
--Custom Button Designed as xml.
--Shared Preferences.
--JSON Connection via Retrofit.
--Youtube Fragment.
+- MVC Pattern
+- Navigation Drawer
+- Fragments and Activities
+- Recycler View
+- Custom Button Designed as xml
+- Shared Preferences
+- JSON Connection via Retrofit
+- Youtube Fragment
 
 
 
