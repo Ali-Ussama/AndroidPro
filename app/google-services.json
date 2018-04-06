@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "763415570863",
+    "firebase_url": "https://dramatranslation-b8bce.firebaseio.com",
+    "project_id": "dramatranslation-b8bce",
+    "storage_bucket": "dramatranslation-b8bce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763415570863:android:981583c42c51709b",
+        "android_client_info": {
+          "package_name": "com.example.aliosama.dramatranslation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763415570863-bs7qge82m4jptfjm07v0ke10coi0nn47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aliosama.dramatranslation",
+            "certificate_hash": "5b57a5ff6ddaddeafc09d11cd40feef494edcdf4"
+          }
+        },
+        {
+          "client_id": "763415570863-teqt1rmbl96v8ljde5bgnfftnucimk95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmtftG6622Kn78ULP0YAK6a9G2b5dN1TU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763415570863-teqt1rmbl96v8ljde5bgnfftnucimk95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

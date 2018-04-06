@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ottakae</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="interests">اهتمامتك</string>
+    <string name="series">المسلسلات</string>
+    <string name="movies">الأفلام</string>
+    <string name="programs">برامج</string>
+    <string name="home">الرئيسية</string>
+    <string name="fav_episodes">الحلقات المفضلة</string>
+    <string name="fav_movies">الأفلام المفضلة</string>
+    <string name="fav_series">المسلسلات المفضلة</string>
+    <string name="fav_programs">البرامج المفضلة</string>
+    <string name="navigation_drawer_open">فتح القائمة</string>
+    <string name="navigation_drawer_close">إغلاق القائمة</string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="read_more">قراءة المزيد</string>
+    <string name="whole_story">القصة كاملة</string>
+    <string name="search">بحث</string>
+    <string name="sort_with_type">ترتيب حسب النوع</string>
+    <string name="sort_with_counrty">ترتيب حسب البلد</string>
+    <string name="movie_name">اسم الفيلم :</string>
+    <string name="movie_country">بلد الفيلم :</string>
+    <string name="movie_type">نوع الفيلم :</string>
+    <string name="movie_date">أصدر سنة :</string>
+    <string name="movie_story">قصة الفيلم :</string>
+    <string name="download">تحميل</string>
+    <string name="watch">مشاهدة</string>
+    <string name="episode_number">حلقة رقم</string>
+    <string name="story">القصة :</string>
+    <string name="more">المزيد…</string>
+    <string name="ResultNotFound">لم يتم العثور على </string>
+    <string name="Episodes">الحلقــات</string>
+    <string name="Story">القصـــة</string>
+    <string name="Disclaimer">إخلاء مسؤولية</string>
+    <string name="share_app">مشاركة التطبيق</string>
+    <string name="others">أخرى</string>
+    <string name="activate_notification">تفعيل الإشعارات لمعرفة أحدث الأفلام و الدراما</string>
+    <string name="Notifications">الإشعارات</string>
+    <string name="ottakae_fb_page">تابعنا على صفحة فيس بوك</string>
+    <string name="ottakae_fb_group">تابعنا على جروب فيس بوك</string>
+    <string name="ottakae_site">الموقع الرسمي</string>
+    <string name="trailer">عرض مختصر للفيلم</string>
+
+    <string name="app_id">ca-app-pub-9301202115781726~9289064917</string>
+    <string name="series_banner_ad_unit_id">ca-app-pub-9301202115781726/6062413576</string>
+    <string name="movies_banner_ad_unit_id">ca-app-pub-9301202115781726/3210208897</string>
+    <string name="movies_interstitial_unit_id">ca-app-pub-9301202115781726/7696604033</string>
+    <string name="series_interstitial_unit_id">ca-app-pub-9301202115781726/8408718774</string>
+    <string name="webview_interstitial_unit_id">ca-app-pub-9301202115781726/5834650030</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="NoInternetConnection">الانترنت غير متصل</string>
+    <string name="Retry">حاول مجددا</string>
+    <string name="release_date">تاريخ العرض :</string>
+    <string name="Movie_name">اسم الفيلم :</string>
+    <string name="real_name">الاسم الحقيقي :</string>
+    <string name="movie_image_content_description">movie image content description</string>
+    <string name="number_of_seasons">عدد المواسم :</string>
+    <string name="number_of_episodes">عدد الحلقات :</string>
+    <string name="Default_Date">2015</string>
+    <string-array name="nav_drawer_fragments_title">
+        <item>المسلسلات</item>
+        <item>الأفلام</item>
+        <item>المسلسلات المفضلة</item>
+        <item>الأفلام المفضلة</item>
+    </string-array>
+
+</resources>

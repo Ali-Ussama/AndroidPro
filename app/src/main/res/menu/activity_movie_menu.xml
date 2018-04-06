@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/movie_menu_download_movie"
+        android:title="@string/download"
+        app:showAsAction="withText"/>
+
+    <item android:id="@+id/movie_menu_watch_movie"
+        android:title="@string/watch"
+        app:showAsAction="withText"/>
+
+    <item android:id="@+id/movie_menu_favorite"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_star_border_white_24dp"/>
+
+</menu>

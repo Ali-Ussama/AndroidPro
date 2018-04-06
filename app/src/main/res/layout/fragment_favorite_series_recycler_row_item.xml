@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="rtl"
+    android:layout_margin="5dp"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+    android:background="@drawable/movies_row_item_style">
+
+    <LinearLayout
+        android:layout_width="120dp"
+        android:layout_height="150dp"
+        android:fitsSystemWindows="true"
+        android:orientation="horizontal"
+        android:layout_marginTop="1dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginEnd="1dp">
+        <ImageView
+            android:id="@+id/FFSRI_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/FFSRI_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:gravity="start"
+                android:text=""
+                android:textStyle="bold"
+                android:maxLines="1"
+                android:textSize="15sp"
+                android:textColor="@color/black"/>
+
+            <ImageView
+                android:id="@+id/FFSRI_favorite"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:layout_gravity="end"
+                android:src="@drawable/ic_star_border_black_24dp"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/FFSRI_story"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="normal"
+            android:maxLines="4"
+            android:text=""
+            android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/FFSRI_read_more"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:gravity="start|bottom"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/blue"
+            android:text="@string/more"/>
+
+    </LinearLayout>
+</LinearLayout>

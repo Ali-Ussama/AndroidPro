@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ottakae</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="interests">اهتمامتك</string>
+    <string name="series">المسلسلات</string>
+    <string name="movies">الأفلام</string>
+    <string name="programs">برامج</string>
+    <string name="home">الرئيسية</string>
+    <string name="fav_episodes">الحلقات المفضلة</string>
+    <string name="fav_movies">الأفلام المفضلة</string>
+    <string name="fav_series">المسلسلات المفضلة</string>
+    <string name="fav_programs">البرامج المفضلة</string>
+    <string name="navigation_drawer_open">فتح القائمة</string>
+    <string name="navigation_drawer_close">إغلاق القائمة</string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="read_more">قراءة المزيد</string>
+    <string name="whole_story">القصة كاملة</string>
+    <string name="search">بحث</string>
+    <string name="sort_with_type">ترتيب حسب النوع</string>
+    <string name="sort_with_counrty">ترتيب حسب البلد</string>
+    <string name="movie_name">اسم الفيلم :</string>
+    <string name="movie_country">بلد الفيلم :</string>
+    <string name="movie_type">نوع الفيلم :</string>
+    <string name="movie_date">أصدر سنة :</string>
+    <string name="movie_story">قصة الفيلم :</string>
+    <string name="download">تحميل</string>
+    <string name="watch">مشاهدة</string>
+    <string name="episode_number">حلقة رقم</string>
+    <string name="story">القصة :</string>
+    <string name="more">المزيد…</string>
+
+    <string-array name="nav_drawer_fragments_title">
+        <item>المسلسلات</item>
+        <item>الأفلام</item>
+        <item>المسلسلات المفضلة</item>
+        <item>الحلقات المفضلة</item>
+        <item>الأفلام المفضلة</item>
+    </string-array>
+
+</resources>

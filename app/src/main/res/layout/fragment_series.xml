@@ -1,0 +1,53 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.aliosama.dramatranslation.Fragments.SeriesFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/Fragment_series_indicatorViewLLcenter"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_marginBottom="10dp"
+            android:visibility="visible">
+            <com.wang.avi.AVLoadingIndicatorView
+                android:id="@+id/Fragment_series_Indicator"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                app:indicatorColor="@color/colorAccent"
+                app:indicatorName="BallSpinFadeLoaderIndicator" />
+        </LinearLayout>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/Fragment_series_RecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" />
+
+        <LinearLayout
+            android:id="@+id/Fragment_series_indicatorViewLLbottom"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_alignBottom="@+id/Fragment_series_RecyclerView"
+            android:orientation="vertical"
+            android:layout_marginBottom="10dp"
+            android:visibility="gone">
+            <com.wang.avi.AVLoadingIndicatorView
+                android:id="@+id/Fragment_series_IndicatorBottom"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:indicatorColor="@color/colorAccent"
+                app:indicatorName="BallPulseIndicator"/>
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>
