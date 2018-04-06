@@ -3,7 +3,7 @@
 Screenshots
 -------------
 
-<img src="Screenshots/20839251_10203714137011720_621723790_n_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/Screenshot_2017-11-19-10-05-36_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/21442809_10203800817898688_2129923609_n_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/21919082_10203856696175610_1614158124_n_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/21919472_10203856696135609_2034339389_n_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/22214973_10203895010453443_1743655432_n_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/22901625_10203985443914223_1332143119_n_framed.png" height="400" alt="Screenshot"/>
+<img src="Screenshots/20839251_10203714137011720_621723790_n_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/Screenshot_2017-11-19-10-05-36_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/21442809_10203800817898688_2129923609_n_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/21919082_10203856696175610_1614158124_n_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/21919472_10203856696135609_2034339389_n_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/22214973_10203895010453443_1743655432_n_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/22901625_10203985443914223_1332143119_n_framed.png" height="400" alt="Screenshot"/> <img src="Screenshots/23666574_10155848711194719_794480449_n_framed.png" height="400" alt="Screenshot"/>
 
 ## Description:
 This app about displaying Korean Movies and Series Episodes.
