@@ -29,7 +29,7 @@ This app about displaying Korean Movies and Series Episodes.
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ```
-Copyright 2016 mahmoud shawara
+Copyright 2017 Ali Ussama
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
